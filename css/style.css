@@ -228,7 +228,7 @@ position: absolute;
   position: relative;
   color: white;
 }
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 800px) {
   
 
 .wrapper a img{
@@ -247,5 +247,24 @@ position: absolute;
   margin: 5px;
 
 }
+#inicio p{
+margin: 0;
+position: absolute;
+  top:60%;
+    font-family: Helvetica, Arial, Sans-Serif;
+    font-size: 16px;
+  color: #C3C3C2;
 
+
+}
+#inicio  h4{
+  margin: 0;
+  position: absolute;
+
+  font-family: Helvetica, Arial, Sans-Serif;
+  color: white;
+  padding:10px;
+  font-size: 22px;
+
+}
 }
