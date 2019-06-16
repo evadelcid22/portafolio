@@ -248,7 +248,7 @@ position: absolute;
   background: #383838;
 }
 .facebookIcon{
-  width: 70%;
+  width: 60%;
   color: red;
 }
 #contact h4{
@@ -278,7 +278,7 @@ position: absolute;
   width: 99%;
   float: left;
   margin: 5px;
-
+  padding: 2%;
 }
 #inicio p{
   margin: 0;
@@ -381,7 +381,7 @@ position: absolute;
   background: #383838;
 }
 .facebookIcon{
-  width: 70%;
+  width: 63%;
   color: red;
 }
 #contact h4{
