@@ -253,7 +253,7 @@ position: absolute;
 }
 #contact h4{
   padding:1%;
-  width: 60%;
+  width: 40%;
   font-family: Helvetica, Arial, Sans-Serif;
   font-size: 18px;
   top: 30px;
@@ -382,11 +382,11 @@ position: absolute;
 }
 .facebookIcon{
   width: 63%;
-  color: red;
+
 }
 #contact h4{
   padding:1%;
-  width: 60%;
+  width: 53%;
   font-family: Helvetica, Arial, Sans-Serif;
   font-size: 18px;
   top: 30px;
