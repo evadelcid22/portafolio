@@ -39,7 +39,7 @@ body{
 }
 /*INICIO*/
 #inicio{
-  min-height:700px;
+  min-height:750px;
   max-height: 800px;
   background: #101010;
   display: inline-block;
@@ -354,6 +354,7 @@ body{
 
 .content{
     margin-top: 1%;
+    width: 100%;
     display: flex;
     flex-direction: row;
     margin-left: 20%;
