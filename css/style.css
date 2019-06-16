@@ -281,22 +281,21 @@ position: absolute;
 
 }
 #inicio p{
-margin: 0;
-position: absolute;
-  top:65%;
-    font-family: Helvetica, Arial, Sans-Serif;
-    font-size: 16px;
+  margin: 0;
+
+  font-family: Helvetica, Arial, Sans-Serif;
+  font-size: 16px;
   color: #C3C3C2;
-
-
+  padding:2%;
+  width: 90%;
 }
 #inicio  h4{
   margin: 0;
-  position: absolute;
 
+  width: 90%;
   font-family: Helvetica, Arial, Sans-Serif;
   color: white;
-  padding:10px;
+  padding:2%;
   font-size: 22px;
 
 }
